@@ -8,7 +8,7 @@ import BrandLogo from "./BrandLogo";
 import { Button } from "./ui/button";
 import { Card, CardContent } from "./ui/card";
 const ALLOWED_QR_ORIGINS = [
-  "https://verify-crystalglow.netlify.app",
+  "https://verify-crystalglow.vercel.app",
   "https://verify-crystalglow.in",
   "https://verify.crystalglow.in",
 ];
